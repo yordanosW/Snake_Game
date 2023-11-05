@@ -1,7 +1,7 @@
 # Snake_Game
-How to Play
-Use the arrow keys
-Collect the yellow balls to get points
+How to Play<br>
+Use the arrow keys<br>
+Collect the yellow balls to get points<br>
 If you touch the snake’s tail, the game starts again
 You can go around the edges of the scene. The snake will come out the other way.
 The scenario changes as you earn points
